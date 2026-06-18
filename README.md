@@ -74,7 +74,7 @@ CLI tool that ingests your skills and experience and tailors resume output to a 
 ---
 
 ### 🎞️ [Video Aspect Ratio Resizer CLI](https://github.com/YOUR_USERNAME/video-resizer-cli) — `Rust` *(Final Testing)*
-Applies linear algebra transformations (matrix scaling, affine transforms) to resize and reformat video files at the systems level. Bridges applied math with low-level Rust programming.
+Applies linear algebra transformations (matrix scaling, affine transforms) to resize and reformat video files at the system level. Bridges applied math with low-level Rust programming.
 
 ---
 
@@ -83,17 +83,8 @@ Interactive Discord bot with reaction-based team formation and multiple team-bui
 
 ---
 
-### 💊 [Office Medicine OpenAI Integration](https://pypi.org/project/YOUR_PACKAGE/) — `Python` `OpenAI API` *(Open Source)*
+### 💊 [Office Medicine OpenAI Integration](https://pypi.org/project/YOUR_PACKAGE/) — `Python` `OpenAI API` *(Closed Source)*
 Published pip-installable package that integrates ChatGPT into the Office Medicine platform — enabling structured queries for drug codes, generic alternatives, and clinical info. Includes full developer documentation.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
