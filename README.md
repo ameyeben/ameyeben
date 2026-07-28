@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <b>CS Student @ Lawrence Technological University &nbsp;•&nbsp; GPA 3.5+ &nbsp;•&nbsp; Expected May 2027</b><br/>
+  <b>CS Student @ Lawrence Technological University &nbsp;•&nbsp; GPA 3.64 &nbsp;•&nbsp; Expected May 2028</b><br/>
   Seeking Summer 2026 Software Engineering Internship
 </p>
 
