@@ -63,7 +63,7 @@ I'm a Computer Science student with hands-on experience building production soft
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Resume Scoring Web App](https://github.com/YOUR_USERNAME/ai-resume-scorer) — `Python` `Flask` `React` `spaCy` `Transformers`
+### 🤖 [AI Resume Scoring Web App] — `Python` `Flask` `React` `spaCy` `Transformers`
 Full-stack capstone application that parses resumes and evaluates them against job descriptions using NLP. Built a Flask REST API + React frontend with a full CI/CD pipeline for automated testing and continuous delivery. Led as primary engineer across 4 Agile sprints; also served as Scrum Master coordinating a 4-person team.
 
 ---
@@ -78,12 +78,12 @@ Applies linear algebra transformations (matrix scaling, affine transforms) to re
 
 ---
 
-### 🤖 [Team Maker Discord Bot](https://github.com/YOUR_USERNAME/team-maker-bot) — `Python` `Discord API`
+### 🤖 [Team Maker Discord Bot] — `Python` `Discord API`
 Interactive Discord bot with reaction-based team formation and multiple team-building algorithms. A clean example of event-driven programming and API integration.
 
 ---
 
-### 💊 [Office Medicine OpenAI Integration](https://pypi.org/project/YOUR_PACKAGE/) — `Python` `OpenAI API` *(Closed Source)*
+### 💊 [Office Medicine OpenAI Integration] — `Python` `OpenAI API` *(Closed Source)*
 Published pip-installable package that integrates ChatGPT into the Office Medicine platform — enabling structured queries for drug codes, generic alternatives, and clinical info. Includes full developer documentation.
 
 ---
