@@ -68,12 +68,12 @@ Full-stack capstone application that parses resumes and evaluates them against j
 
 ---
 
-### 🦀 [Resume Builder CLI](https://github.com/YOUR_USERNAME/resume-builder-cli) — `Rust` *(In Progress)*
+### 🦀 [Resume Builder CLI] — `Rust` *(In Progress)*
 CLI tool that ingests your skills and experience and tailors resume output to a specific job description — automating keyword alignment for applications. Built in Rust for performance and portability.
 
 ---
 
-### 🎞️ [Video Aspect Ratio Resizer CLI](https://github.com/YOUR_USERNAME/video-resizer-cli) — `Rust` *(Final Testing)*
+### 🎞️ [Video Aspect Ratio Resizer CLI] — `Rust` 
 Applies linear algebra transformations (matrix scaling, affine transforms) to resize and reformat video files at the system level. Bridges applied math with low-level Rust programming.
 
 ---
